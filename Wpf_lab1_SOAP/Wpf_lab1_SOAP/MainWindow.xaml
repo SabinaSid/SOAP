@@ -1,0 +1,15 @@
+﻿<Window x:Class="Wpf_lab1_SOAP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_lab1_SOAP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock FontWeight="Bold" Height="59" Name="txt" TextAlignment = "Center" Text="{Binding LastQueriedRate}" FontSize="30" ></TextBlock>
+            <Button Command="{Binding ButtonCLick}">Получить курс</Button>
+        </StackPanel>
+    </Grid>
+</Window>

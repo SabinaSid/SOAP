@@ -1,0 +1,15 @@
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\bin\Debug\Wpf_lab1_SOAP.exe.config
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\bin\Debug\Wpf_lab1_SOAP.exe
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\bin\Debug\Wpf_lab1_SOAP.pdb
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP.csprojAssemblyReference.cache
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\MainWindow.g.cs
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\App.g.cs
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP_MarkupCompile.cache
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP_MarkupCompile.lref
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\MainWindow.baml
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP.g.resources
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP.Properties.Resources.resources
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP.csproj.GenerateResource.cache
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP.csproj.CoreCompileInputs.cache
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP.exe
+C:\Users\kaise\source\repos\Wpf_lab1_SOAP\Wpf_lab1_SOAP\obj\Debug\Wpf_lab1_SOAP.pdb
